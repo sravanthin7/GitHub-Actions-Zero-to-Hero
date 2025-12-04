@@ -1,8 +1,6 @@
 # app.py
 # This is a test commit
 # second commit
-# again commit
-# newonw
 def add(a, b):
     return a + b
 
